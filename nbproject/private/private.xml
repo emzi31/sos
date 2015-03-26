@@ -4,9 +4,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/mzietara/Dropbox/Programming/Java/sos/src/sos/SosApp.java</file>
-            <file>file:/Users/mzietara/Dropbox/Programming/Java/sos/src/sos/SosGameView.java</file>
-            <file>file:/Users/mzietara/Dropbox/Programming/Java/sos/src/sos/Player.java</file>
+            <file>file:/Users/mzietara/GitHub/sos/src/sos/SosView.java</file>
+            <file>file:/Users/mzietara/GitHub/sos/src/sos/CompPlayer.java</file>
+            <file>file:/Users/mzietara/GitHub/sos/src/sos/EndGameDialog.java</file>
+            <file>file:/Users/mzietara/GitHub/sos/src/sos/SosGameView.java</file>
+            <file>file:/Users/mzietara/GitHub/sos/src/sos/SosApp.java</file>
         </group>
     </open-files>
 </project-private>
